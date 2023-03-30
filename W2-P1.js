@@ -128,11 +128,11 @@ if (number % 2 === 0) {
   Modifica la logica del seguente algoritmo in modo che mostri in console il messaggio corretto in ogni circostanza. */
 
 //*RISPOSTA 10
-/*   let val = 1
-  if (val < 10 && val >4) {
-      console.log("Meno di 10");
-    } else if (val < 5) {
+  /* let val = 4
+  if (val < 5) {
       console.log("Meno di 5");
+    } else if (val < 10) {
+      console.log("Meno di 10");
     } else{
       console.log("Uguale a 10 o maggiore");
     } */
